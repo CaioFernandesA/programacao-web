@@ -1,3 +1,3 @@
 # programacao-web
 
-## Repositório da disciplina de programação web do ceub
+## Repositório de programação web
